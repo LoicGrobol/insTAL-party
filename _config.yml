@@ -5,7 +5,7 @@ description: Contenus et info pour l'install party du master PluriTAL
 emojicon: 🐧
 
 url: https://loicgrobol.github.io/
-baseurl: /install_party
+baseurl: /insTAL-party/
 repository: LoicGrobol/insTAL-party
 
 include:
