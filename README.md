@@ -32,6 +32,10 @@ bundle exec jekyll serve
 
 ## Changer les choses (avec des bouquets de roses)
 
+### Modifier la page principale
+
+C'est dans `index.md`, changes-y ce que tu veux.
+
 ### Ajouter des pages
 
 Jekyll n'est pas très bon pour les pages qui ne sont pas des postes de blog. Si tu veux des
