@@ -1,0 +1,12 @@
+theme: jekyll-theme-primer
+
+title: InsTAL party
+description: Contenus et info pour l'install party du master PluriTAL
+emojicon: 🐧
+
+url: https://loicgrobol.github.io/
+baseurl: /install_party
+repository: LoicGrobol/insTAL-party
+
+include:
+  - _pages

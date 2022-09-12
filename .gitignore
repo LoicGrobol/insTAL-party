@@ -1,0 +1,12 @@
+local
+_build
+
+# npm and jekyll cache
+vendor
+.jekyll-cache
+.bundle
+
+html_slides
+
+# local jekyll build
+_site
